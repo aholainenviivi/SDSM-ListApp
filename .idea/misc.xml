@@ -5,7 +5,7 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2210242587601078" />
-        <entry key="app/src/main/res/layout/activity_second.xml" value="0.36354166666666665" />
+        <entry key="app/src/main/res/layout/activity_second.xml" value="0.1" />
         <entry key="app/src/main/res/layout/layout_item_in_ironmen_listview.xml" value="0.35743589743589743" />
       </map>
     </option>
