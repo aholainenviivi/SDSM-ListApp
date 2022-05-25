@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ListApp</string>
+
+    <string name="title">Types of Solo Ironmen</string>
+
+    <string-array name="categories">
+        <item>Ironman</item>
+        <item>Ultimate Ironman</item>
+        <item>Hardcore Ironman</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>No trade, no charity, only hard work and pain.</item>
+        <item>Ironman with no bank.</item>
+        <item>Upon dying loses status and gets downgraded to regular Ironman</item>
+    </string-array>
+
+    
+
+</resources>
